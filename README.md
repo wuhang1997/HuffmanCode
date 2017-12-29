@@ -1,5 +1,6 @@
 # HuffmanCode
 C++ code to solve Huffman question: input a sentence then print a huffman list and code.
+
 example:
 
 Please input your sentence:
